@@ -11,4 +11,5 @@
 
 |    | paper                                                                                | date       | reference |
 |----|--------------------------------------------------------------------------------------|------------|----------------|
-| 01 ||  |      |
+| 01 | [wav2vec 2.0 : A Framework for Self-Supervised Learning of Speech Representations](https://arxiv.org/abs/2006.11477) (2020) | tbd     ||
+| 02 | [Conformer: Convolution-augmented Transformer for Speech Recognition](https://arxiv.org/abs/2005.08100) (2020)||
