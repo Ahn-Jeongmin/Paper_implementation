@@ -1,4 +1,4 @@
-# 논문 구현
+# 논문 리뷰 & 구현
 
 ## 📄 NLP
 
@@ -6,6 +6,8 @@
 |----|--------------------------------------------------------------------------------------|------------|----------------|
 | 01 | [Sequence to Sequence Learning with Neural Networks](https://arxiv.org/abs/1409.3215) (2014) | 2024.11.07 | [link](https://www.youtube.com/watch?v=4DzKM0vgG1Y&t=637s)       |
 | 02 | [Attention is All You Need](https://arxiv.org/abs/1706.03762) (2017)                 | 2024.11.17 | [link](https://youtu.be/AA621UofTUA?si=UD6m1zJoquBAOa_L)       |
+| 03 | [Long-Short Term Memory](https://ieeexplore.ieee.org/abstract/document/6795963) (1997)     | 2024.11.21 | -      |
+
 
 ## 📄Speech
 
